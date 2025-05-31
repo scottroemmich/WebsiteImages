@@ -1,0 +1,38 @@
+
+
+
+html (Button to website on Github):
+
+  <a href="https://scottroemmich.github.io/CasaDeRoemmich/HotelReview.html" 
+    style="padding:10px 20px; 
+          background-color:hsl(116, 67%, 31%); 
+          color:white; 
+          border:none; 
+          border-radius:5px; 
+          text-decoration:none;">
+    Pretty Pretty Please Share your Opinion with us
+  </a>
+
+
+
+
+
+mp3 Audio:
+
+  <audio controls aria-label="ominous audio soundtrack">
+    <source src="https://raw.githubusercontent.com/scottroemmich/WebsiteImages/main/fast-epic-15-sec-108425.mp3" type="audio/mp3"/>
+    Your browser does not support the audio element.
+  </audio>
+
+
+
+
+
+  jpeg Image:
+
+  <img src="https://github.com/scottroemmich/WebsiteImages/blob/main/Hotel2.jpeg?raw=true" alt="Hotel De Roemmich">
+  <img src="https://github.com/scottroemmich/WebsiteImages/blob/main/Hotel3.jpeg?raw=true" alt="Hotel De Roemmich">
+  <img src="https://github.com/scottroemmich/WebsiteImages/blob/main/Hotel4.jpeg?raw=true" alt="Hotel De Roemmich">
+
+
+  
